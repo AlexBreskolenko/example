@@ -42,7 +42,7 @@ int[] array = new int[10];
 
 //Заполняем массив рандомными числами
 fillArray(array);
-//Выводим массив
+//Выводим массив 
 printArray(array);
 
 Console.WriteLine();
